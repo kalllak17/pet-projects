@@ -1,0 +1,51 @@
+#GameField {
+    width: fit-content;
+}
+#Settings{
+
+    margin-bottom: 3px;
+}
+header {
+    display: flex;
+}
+
+button {
+    padding: 0;
+}
+
+article button {
+    margin: 5px;
+    width: fit-content;
+}
+
+header p {
+    font-size: xx-large;
+    width: fit-content;
+    border: black solid 1px;
+    height: fit-content;
+    padding: 5px;
+    margin: 5px;
+}
+
+aside div {
+    border: 2px solid black;
+    display: flex;
+}
+
+body {
+    background-image: linear-gradient(180deg, beige, sandybrown);
+}
+
+#MainContainer {
+    width: fit-content;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 2px 2px 5px crimson;
+}
+
+header, section, article {
+    margin-left: 5px;
+}
